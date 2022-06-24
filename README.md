@@ -7,3 +7,9 @@ Use: python paises.py -acao- -nome do pais-
 
 Install Requests:
 > pip install requests
+
+Exemplo:
+> python3 paises.py populacao brasil
+> Brazil: 212559409
+
+
