@@ -1,3 +1,4 @@
+# Rodrigo Viana - rsviana@gmail.com
 import json
 import sys
 
