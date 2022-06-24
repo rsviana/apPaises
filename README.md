@@ -13,4 +13,11 @@ Exemplo:
 
 > Brazil: 212559409
 
+> python3 paises.py moeda argentina
+
+> Moedas do Argentina
+
+> Argentine peso - ARS
+
+
 
